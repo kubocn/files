@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://images.9qupai.com/site/logo.png</string>
+					<string>http://images.9qupai.com/site/logo.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://images.9qupai.com/site/logo.png</string>
+					<string>http://images.9qupai.com/site/logo.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HengYunIOS</string>
+				<string>天策资本</string>
 			</dict>
 		</dict>
 	</array>

@@ -16,16 +16,12 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
 					<string>http://images.9qupai.com/site/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
 					<string>http://images.9qupai.com/site/logo.png</string>
 				</dict>
@@ -33,15 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>jiuzhou.com.cn</string>
+				<string>com.gejiangs.PokerGamesd</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>天策资本</string>
-				<key>subtitle</key>
-				<string>天策资本</string>
+				<string>HengYunIOS</string>
 			</dict>
 		</dict>
 	</array>
